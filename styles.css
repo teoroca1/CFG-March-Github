@@ -1,0 +1,32 @@
+body {
+    background-color: cadetblue;
+}
+/* p {
+    color: yellow;
+} */
+/* different selectors */
+/* 1. element */
+/* 2. class [ . notation ]*/
+/* 3. id [ # notation ]  */
+body {
+    font-size: 35px;
+}
+.just-p {
+    color: yellow;
+}
+.second-p {
+    color: red;
+    border: 3px solid blue;
+}
+#id_1{
+    color: green;
+}
+h1{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Itim;
+}
+ul {
+    font-family: Itim;
+}
